@@ -16,3 +16,5 @@
 And the tool used to run and compail the SQL code is MySQL and online SQL COMPAILER.
 
 #output : "C:\Users\My PC\Downloads\tableoutput.png"
+![tableoutput](https://github.com/user-attachments/assets/391084b4-03f7-4c1a-a709-4423c9fb95ac)
+
